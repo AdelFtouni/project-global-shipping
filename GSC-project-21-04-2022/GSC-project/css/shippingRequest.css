@@ -1,0 +1,19 @@
+ .inputs{
+width: 60% !important;
+height: 40px !important;  
+background-color: #ffffff !important;  
+
+}
+.labels{
+    color:grey !important;
+}
+
+.mmm{
+    margin-top: 20px;
+}
+ body{
+     background-color:white; 
+}
+form{
+    margin-top: 3%;
+}
